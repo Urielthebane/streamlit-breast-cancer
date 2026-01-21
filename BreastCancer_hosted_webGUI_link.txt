@@ -1,0 +1,11 @@
+Name: Akinmusire Oluwankorinola
+
+Matric Number: 250000512
+
+Machine Learning Algorithm Used : Feed-Forward Neural Network (Keras)
+
+Model persistence method used : HDF5 format (Hierarchical Data Format)
+
+Live URL of the hosted application:
+
+GitHub repository link : 
