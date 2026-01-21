@@ -6,6 +6,6 @@ Machine Learning Algorithm Used : Feed-Forward Neural Network (Keras)
 
 Model persistence method used : HDF5 format (Hierarchical Data Format)
 
-Live URL of the hosted application:
+Live URL of the hosted application: https://app-breast-cancer-sjttb57mj5km6ettwnuslb.streamlit.app/
 
-GitHub repository link : 
+GitHub repository link : https://github.com/Urielthebane/streamlit-breast-cancer.git
